@@ -1,0 +1,7 @@
+- 👋 Witaj, jestem Kacper
+- 👀 Aktualnie chodzę do liceum, na 3 roku profilu matematyczno informatycznym. Głównie zajmuję się algorytmiczną stroną programowania,
+- bardzo szybko się uczę więc nie bedzie problemu z nowymi środowiskami.
+- 🌱 Aktualnie poznaje dogłębniej matematyke aby wystartować w OMie oraz OIu. Uczestniczę w programie rozwoju/webinarów MAP, gdzie
+- grupowo rozwiązuje problemy informatyczne.
+- 💞️ Jestem chętny na każdą współpracę, chociaż czas ogranicza nieco liceum i nakład nauki potrzebny do rozwoju.
+- 📫 Mój kontakt: kacperosj2003@gmail.com
